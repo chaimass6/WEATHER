@@ -13,3 +13,22 @@ body{
     justify-content: center;
     align-items: center;
 }
+.output{
+    color: rgb(78, 0, 0);
+}
+.temp{
+    font-size: 5rem ;
+}
+.place{
+    font-size: 3rem;
+
+}
+.time{
+    font: 2em sans-serif;
+}
+.climate{
+    font-size: 2rem;
+}
+.output{
+    line-break: 10px;
+}
