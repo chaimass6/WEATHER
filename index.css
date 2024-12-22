@@ -21,7 +21,6 @@ body{
 }
 .place{
     font-size: 3rem;
-
 }
 .time{
     font: 2em sans-serif;
@@ -29,6 +28,4 @@ body{
 .climate{
     font-size: 2rem;
 }
-.output{
-    line-break: 10px;
-}
+
