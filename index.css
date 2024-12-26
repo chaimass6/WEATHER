@@ -5,6 +5,7 @@
 body{
     background-color: cadetblue;
     background-attachment: fixed;
+    color: hotpink;
 }
 .full{
     display: flex;
