@@ -7,7 +7,11 @@ const fetchResult =  async (target)=>{
     const res  = await fetch(url)
     const data = await res.json()
     console.log(data)
-    
+    let loname = data.location.name
+    let time = data.location.localtime
+    let temp = data.current.temp_c
+    let humidity = data.current.humidity
+    let wind = data.current.wind_mph
     
 }
 fetchResult(tar)
