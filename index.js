@@ -1,3 +1,7 @@
+
+
+
+
 let tar = 'Mumbai'
 
 const fetchResult =  async (target)=>{
@@ -12,6 +16,8 @@ const fetchResult =  async (target)=>{
     let temp = data.current.temp_c
     let humidity = data.current.humidity
     let wind = data.current.wind_mph
+    let condition = data.current.condition.text
+    let icon = data.current.condition.icon
     
 }
 fetchResult(tar)
