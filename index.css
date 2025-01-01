@@ -14,6 +14,7 @@ body{
     width: 100%;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .output{
     color: rgb(62, 0, 78);
