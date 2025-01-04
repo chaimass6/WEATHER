@@ -1,4 +1,4 @@
-const temperatureField = document
+const temperatureField = document.querySelector
 
 
 
