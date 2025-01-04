@@ -1,6 +1,6 @@
 const temperatureField = document.querySelector(".temp");
 const locationField = document.querySelector(".place");
-const temperatureField = document.querySelector(".temp");
+const dateField = document.querySelector(".");
 const temperatureField = document.querySelector(".temp");
 const temperatureField = document.querySelector(".temp");
 
