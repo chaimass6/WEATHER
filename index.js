@@ -1,4 +1,6 @@
 const temperatureField = document.querySelector(".temp");
+const humidityField = document.querySelector(".humidity");
+
 
 
 
