@@ -1,4 +1,5 @@
-const temperatureField = document.querySelector
+const temperatureField = document.querySelector(".temp");
+
 
 
 
