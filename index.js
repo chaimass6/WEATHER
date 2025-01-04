@@ -1,4 +1,4 @@
-const temperatureField 
+const temperatureField = document
 
 
 
