@@ -1,7 +1,5 @@
 const temperatureField = document.querySelector(".temp");
-const humidityField = document.querySelector(".humidity");
-const windSpeedField = document.querySelector(".wind-speed");
-const pressureField = document.querySelector(".pressure");
+
 
 
 
